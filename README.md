@@ -18,7 +18,7 @@ Adalah Framework CSS yang mengutamakan utiliyt yang dikemas dengan class seperti
 ### Install TailwindCSS CLI
 
 - Pastikan sudah terinstal Node JS dan Folder untuk project
-- Inisialisasi NPm dengan
+- Inisialisasi NPM dengan
 
 ```sh
 npm init
@@ -30,7 +30,7 @@ npm init
 npm i -D tailwindcss
 ```
 
-- Install depedencies pendukung juga
+(Jika Node Js < versi 16) Instll juga :
 
 ```sh
 npm i -D postcss autoprefixer
